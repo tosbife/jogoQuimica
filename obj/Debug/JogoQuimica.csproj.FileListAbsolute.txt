@@ -1,0 +1,12 @@
+C:\Users\Almei\source\repos\JogoQuimica\bin\Debug\JogoQuimica.exe.config
+C:\Users\Almei\source\repos\JogoQuimica\bin\Debug\JogoQuimica.exe
+C:\Users\Almei\source\repos\JogoQuimica\bin\Debug\JogoQuimica.pdb
+C:\Users\Almei\source\repos\JogoQuimica\obj\Debug\JogoQuimica.csprojAssemblyReference.cache
+C:\Users\Almei\source\repos\JogoQuimica\obj\Debug\JogoQuimica.Form1.resources
+C:\Users\Almei\source\repos\JogoQuimica\obj\Debug\JogoQuimica.Properties.Resources.resources
+C:\Users\Almei\source\repos\JogoQuimica\obj\Debug\JogoQuimica.csproj.GenerateResource.cache
+C:\Users\Almei\source\repos\JogoQuimica\obj\Debug\JogoQuimica.csproj.CoreCompileInputs.cache
+C:\Users\Almei\source\repos\JogoQuimica\obj\Debug\JogoQuimica.exe
+C:\Users\Almei\source\repos\JogoQuimica\obj\Debug\JogoQuimica.pdb
+C:\Users\Almei\source\repos\JogoQuimica\obj\Debug\JogoQuimica.Form2.resources
+C:\Users\Almei\source\repos\JogoQuimica\obj\Debug\JogoQuimica.UserControl1.resources
